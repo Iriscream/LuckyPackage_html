@@ -1,0 +1,116 @@
+body {
+    background-color: #000000;
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+div {
+    margin: 5px;
+    border-radius: 10px;
+    border-width: 3px;
+    font-size: 8vw;
+    font-weight: 600;
+    text-align: center;
+    height: 11%;
+}
+
+#sec {
+    border-style: solid;
+    font-size: 7.8vw;
+    -webkit-text-fill-color: rgb(247, 237, 100);
+    -webkit-text-stroke: 1px #000000;
+    font-weight: bold;
+    background-color: rgb(0, 122, 179);
+    border-color: rgb(247, 237, 100);
+    width: 19%;
+    height: 9%;
+    float: right;
+}
+
+#fir {
+    font-size: 7vw;
+    color: #ffffff;
+    width: 80%;
+}
+
+#thi {
+    font-size: 8vw;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: red;
+    border-style: solid;
+    border-color: rgb(247, 237, 100);
+    width: 60%;
+    float: left;
+    letter-spacing: 1.2vw;
+}
+
+#for {
+    font-size: 8vw;
+    font-weight: 600;
+    color: #ffffff;
+    border-style: solid;
+    border-color: red;
+    float: left;
+    letter-spacing: 1.0vw;
+}
+
+.fif {
+    font-size: 8vw;
+    font-weight: 600;
+    color: rgb(247, 237, 100);
+    border-style: solid;
+    border-color: rgb(247, 237, 100);
+    background-color: red;
+    float: left;
+    letter-spacing: 1.0vw;
+}
+
+.smallImg {
+    height: 10%;
+    width: 10vw;
+    float: left;
+    padding-top: 1ch;
+}
+
+.typeFir {
+    background-color: rgb(0, 122, 179);
+    -webkit-text-fill-color: #ffffff;
+    -webkit-text-stroke: 1px #000000;
+    border-style: solid;
+    border-color: rgb(247, 237, 100);
+    float: left;
+    letter-spacing: 1.0vw;
+}
+
+.typeSec {
+    background-color: rgb(247, 237, 100);
+    color: #000000;
+    border-style: solid;
+    border-color: red;
+    float: right;
+    letter-spacing: 1.0vw;
+}
+
+.typeThi {
+    background-color: #000000;
+    color: rgb(247, 237, 100);
+    float: right;
+    letter-spacing: 1vw;
+    margin: 10px auto;
+}
+
+.typeFor {
+    background-color: #000000;
+    color: #ffffff;
+    border-style: solid;
+    border-color: rgb(247, 237, 100);
+    float: left;
+    letter-spacing: 1vw;
+}
+
+#Name {
+    font-size: 7vw;
+    color: #ffffff;
+}
